@@ -1,0 +1,473 @@
+2021-04-12 20:55:45,977 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-12 20:56:05,548 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-12 20:56:05,986 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-12 20:56:06,010 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-12 20:56:12,723 - EngageAutomation -INFO - Google login takes place.
+2021-04-12 20:56:12,740 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-12 20:56:40,343 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-12 22:16:27,436 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-12 22:17:21,828 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-12 22:17:22,069 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-12 22:17:22,093 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-12 22:18:19,867 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-12 22:20:28,893 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-12 22:20:29,114 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-12 22:20:29,138 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-12 22:23:28,476 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-12 22:25:33,803 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-12 22:26:53,057 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-12 22:28:18,050 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-12 22:28:51,210 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-12 22:28:51,552 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-12 22:28:51,571 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-12 22:28:58,505 - EngageAutomation -INFO - Google login takes place.
+2021-04-12 22:28:58,536 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-12 22:29:22,623 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-13 17:28:03,258 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-13 17:28:58,024 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-13 17:29:07,922 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-13 17:29:08,139 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-13 17:29:08,165 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-13 17:29:13,654 - EngageAutomation -INFO - Google login takes place.
+2021-04-13 17:29:13,670 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-13 17:29:45,373 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-13 17:39:14,602 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-13 17:39:22,549 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-13 17:39:22,771 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-13 17:39:22,796 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-13 17:39:28,475 - EngageAutomation -INFO - Google login takes place.
+2021-04-13 17:39:28,490 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-13 17:39:54,804 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-14 19:00:13,432 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-14 19:00:53,224 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-14 19:00:53,448 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-14 19:00:53,477 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-14 19:01:00,295 - EngageAutomation -INFO - Google login takes place.
+2021-04-14 19:01:00,315 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-14 19:01:28,841 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-14 19:08:00,108 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-14 19:08:11,749 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-14 19:08:11,967 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-14 19:08:11,991 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-14 19:08:18,939 - EngageAutomation -INFO - Google login takes place.
+2021-04-14 19:08:18,953 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-14 19:08:45,210 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-14 21:52:13,162 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-14 22:25:15,362 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-14 22:26:24,169 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-14 22:26:49,015 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-14 22:26:49,471 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-14 22:26:49,494 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-14 22:26:56,879 - EngageAutomation -INFO - Google login takes place.
+2021-04-14 22:26:56,899 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-14 22:27:30,437 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-14 22:39:15,332 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-14 22:39:51,106 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-14 22:39:51,453 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-14 22:39:51,474 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-14 22:39:58,519 - EngageAutomation -INFO - Google login takes place.
+2021-04-14 22:39:58,535 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-14 22:40:27,547 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-14 22:43:51,214 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-14 22:48:30,694 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-14 22:49:16,351 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-14 22:51:12,412 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-14 22:52:28,085 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-14 22:54:33,549 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-14 22:54:34,054 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-14 22:54:34,080 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-14 22:54:42,084 - EngageAutomation -INFO - Google login takes place.
+2021-04-14 22:54:42,111 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-14 22:55:11,392 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-14 22:57:01,939 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-14 22:58:25,232 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-14 22:58:25,686 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-14 22:58:25,711 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-14 22:58:33,158 - EngageAutomation -INFO - Google login takes place.
+2021-04-14 22:58:33,175 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-14 22:59:00,329 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 11:54:29,455 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 11:54:50,348 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 11:54:50,562 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 11:54:50,588 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 11:54:55,815 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 11:54:55,828 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 15:53:45,951 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 15:54:34,259 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 15:54:34,552 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 15:54:34,577 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 16:29:28,899 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 16:29:48,244 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 16:29:48,455 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 16:29:48,488 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 16:29:55,141 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 16:29:55,156 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 16:30:22,106 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 16:30:22,319 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 16:30:22,360 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 16:30:22,397 - EngageAutomation -INFO - Sales Portfolio Field is disabled as expected.
+2021-04-15 17:06:41,530 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 17:06:59,277 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 17:06:59,496 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 17:06:59,519 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 17:07:05,741 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 17:07:05,754 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 17:07:44,128 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 17:07:44,323 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 17:07:44,359 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 17:07:44,388 - EngageAutomation -INFO - Sales Portfolio Field is disabled as expected.
+2021-04-15 18:22:51,745 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 18:23:06,530 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 18:23:06,742 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 18:23:06,765 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 18:23:13,089 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 18:23:13,103 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 18:23:40,548 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 18:23:40,759 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 18:23:40,793 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 18:23:40,820 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 18:23:40,850 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 18:32:38,509 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 18:33:10,569 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 18:33:11,072 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 18:33:11,100 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 18:33:18,070 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 18:33:18,086 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 18:34:41,504 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 18:34:41,742 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 18:34:41,776 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 18:34:41,803 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 18:34:41,830 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 18:39:46,444 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 18:40:18,514 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 18:40:18,898 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 18:40:18,927 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 18:40:25,920 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 18:40:25,939 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 18:44:36,327 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 18:44:53,610 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 18:44:53,864 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 18:44:53,883 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 18:45:01,272 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 18:45:01,288 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 18:45:29,512 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 18:45:30,278 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 18:45:31,916 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 18:45:31,946 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 18:45:31,973 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 19:06:33,589 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 19:06:49,086 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 19:06:49,402 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 19:06:49,432 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 19:06:55,618 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 19:06:55,633 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 19:07:23,120 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 19:07:23,629 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 19:07:25,650 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 19:07:26,505 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 19:07:26,564 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 19:10:39,394 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 19:10:57,263 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 19:10:57,527 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 19:10:57,558 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 19:11:04,448 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 19:11:04,465 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 19:11:32,393 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 19:11:33,170 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 19:11:35,511 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 19:11:35,539 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 19:11:35,566 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 19:31:56,000 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 19:33:30,711 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 19:33:30,980 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 19:33:31,012 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 19:33:38,481 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 19:33:38,501 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 19:34:04,635 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 19:34:05,251 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 19:34:05,324 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 19:34:05,354 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 19:34:05,381 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 19:38:11,240 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 19:38:35,675 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 19:38:36,066 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 19:38:36,095 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 19:38:44,126 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 19:38:44,174 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 19:39:08,193 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 19:39:08,445 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 19:39:08,484 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 19:39:08,514 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 19:39:08,542 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 19:40:22,482 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 19:40:50,351 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 19:40:50,762 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 19:40:50,786 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 19:40:58,537 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 19:40:58,565 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 19:41:27,657 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 19:41:27,995 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 19:41:28,089 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 19:41:28,129 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 19:41:28,162 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 19:49:12,377 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 19:49:43,442 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 19:49:43,725 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 19:49:43,747 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 19:49:51,573 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 19:49:51,587 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 19:50:18,940 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 19:50:19,477 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 19:50:19,522 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 19:50:19,555 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 19:50:19,584 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 19:54:28,734 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 19:55:21,182 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 19:55:21,448 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 19:55:21,476 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 19:55:28,964 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 19:55:28,979 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 19:56:22,935 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 19:56:23,554 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 19:56:23,622 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 19:56:23,685 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 19:56:23,752 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 19:57:46,865 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 19:58:22,220 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 19:58:22,570 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 19:58:22,595 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 19:58:31,807 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 19:58:31,828 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 19:59:18,565 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 19:59:18,965 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 19:59:19,029 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 19:59:19,066 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 19:59:19,098 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 21:08:07,761 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 21:09:13,574 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 21:09:13,866 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 21:09:13,888 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 21:09:22,202 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 21:09:22,234 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 21:09:53,783 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 21:09:54,364 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 21:09:54,462 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 21:09:54,519 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 21:09:54,561 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 21:09:55,303 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 21:09:55,797 - EngageAutomation -INFO - CEM Name field is filled with valid input.
+2021-04-15 21:09:57,204 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 21:09:58,777 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 21:09:59,772 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 21:10:00,092 - EngageAutomation -INFO - Link From Netsuite subtask is filled.
+2021-04-15 21:10:00,126 - EngageAutomation -INFO - Successfully redirected to Engage Product Details page.
+2021-04-15 21:10:00,507 - EngageAutomation -INFO - Project Name field is filled with valid input.
+2021-04-15 21:10:00,976 - EngageAutomation -INFO - DL Sponsor Name field is filled with valid input.
+2021-04-15 21:10:01,810 - EngageAutomation -INFO - DL Sponsor Email field is filled with valid input.
+2021-04-15 21:10:02,047 - EngageAutomation -INFO - Engage product details subtask is filled.
+2021-04-15 21:10:02,092 - EngageAutomation -INFO - Successfully redirected to Other Details page.
+2021-04-15 21:10:03,010 - EngageAutomation -INFO - Exemption reason was added.
+2021-04-15 21:10:03,198 - EngageAutomation -INFO - Sustained radio button for Engagement Term is clicked.
+2021-04-15 21:10:03,994 - EngageAutomation -INFO - Date is picked from the date picker.
+2021-04-15 21:10:04,402 - EngageAutomation -INFO - Add button is clicked.
+2021-04-15 22:22:48,990 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 22:24:35,178 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 22:26:49,163 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 22:28:51,780 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 22:29:17,280 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 22:29:17,673 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 22:29:17,697 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 22:29:25,479 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 22:29:25,493 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 22:30:21,611 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 22:30:22,292 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 22:30:22,422 - EngageAutomation -INFO - CEM Name field is filled with valid input.
+2021-04-15 22:30:22,608 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 22:30:22,754 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 22:30:22,926 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 22:30:23,845 - EngageAutomation -INFO - Warning for empty DL Name field is displayed.
+2021-04-15 22:46:02,845 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 22:50:16,296 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 23:04:10,799 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 23:05:36,969 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 23:05:37,175 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 23:05:37,200 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 23:05:46,905 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 23:05:46,919 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 23:06:15,870 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 23:06:16,199 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 23:06:16,268 - EngageAutomation -INFO - CEM Name field is filled with valid input.
+2021-04-15 23:06:16,343 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 23:06:16,413 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 23:06:16,480 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 23:06:16,618 - EngageAutomation -INFO - Warning for empty DL Name field is displayed.
+2021-04-15 23:06:16,653 - EngageAutomation -INFO - Warning for empty CEM Name field is displayed.
+2021-04-15 23:06:16,704 - EngageAutomation -INFO - Warning for empty Client Name field is displayed.
+2021-04-15 23:06:16,746 - EngageAutomation -INFO - Warning for empty DL Email field is displayed.
+2021-04-15 23:06:16,779 - EngageAutomation -INFO - Warning for empty CEM Email field is displayed.
+2021-04-15 23:08:55,705 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 23:09:46,911 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 23:10:42,496 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 23:10:42,735 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 23:10:42,756 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 23:10:52,528 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 23:10:52,544 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 23:11:21,630 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 23:11:21,842 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 23:11:21,877 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 23:11:21,906 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 23:11:21,928 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 23:11:22,232 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 23:11:22,500 - EngageAutomation -INFO - CEM Name field is filled with valid input.
+2021-04-15 23:11:22,801 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 23:11:23,407 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 23:11:23,905 - EngageAutomation -INFO - DL Name field is filled with valid input.
+2021-04-15 23:11:24,133 - EngageAutomation -INFO - Link From Netsuite subtask is completed.
+2021-04-15 23:11:24,160 - EngageAutomation -INFO - Successfully redirected to Engage Product Details page.
+2021-04-15 23:11:24,446 - EngageAutomation -INFO - Project Name field is filled with valid input.
+2021-04-15 23:11:24,677 - EngageAutomation -INFO - DL Sponsor Name field is filled with valid input.
+2021-04-15 23:11:25,062 - EngageAutomation -INFO - DL Sponsor Email field is filled with valid input.
+2021-04-15 23:11:25,215 - EngageAutomation -INFO - Engage product details subtask is completed.
+2021-04-15 23:11:25,240 - EngageAutomation -INFO - Successfully redirected to Other Details page.
+2021-04-15 23:11:25,337 - EngageAutomation -INFO - Yes radio button for EHI-PHC exemption is clicked.
+2021-04-15 23:11:25,646 - EngageAutomation -INFO - Exemption reason was added.
+2021-04-15 23:11:25,739 - EngageAutomation -INFO - Sustained radio button for Engagement Term is clicked.
+2021-04-15 23:11:26,310 - EngageAutomation -INFO - Date is picked from the date picker.
+2021-04-15 23:11:27,185 - EngageAutomation -INFO - Add button is clicked.
+2021-04-15 23:11:29,462 - EngageAutomation -INFO - Success okay button is clicked button is clicked.
+2021-04-15 23:11:29,463 - EngageAutomation -INFO - Other Details subtask is completed.
+2021-04-15 23:49:00,013 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-15 23:49:45,399 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-15 23:49:45,632 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-15 23:49:45,656 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-15 23:49:51,696 - EngageAutomation -INFO - Google login takes place.
+2021-04-15 23:49:51,711 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-15 23:50:20,011 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-15 23:50:20,238 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-15 23:50:20,281 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-15 23:50:20,313 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-15 23:50:20,333 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-15 23:50:20,632 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-15 23:50:20,909 - EngageAutomation -INFO - CEM Name field is filled.
+2021-04-15 23:50:21,223 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-15 23:50:21,829 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-15 23:50:22,489 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-15 23:50:23,430 - EngageAutomation -INFO - Successfully redirected to Engage Product Details page.
+2021-04-15 23:50:23,498 - EngageAutomation -INFO - Project Name field is filled with valid input.
+2021-04-15 23:50:23,569 - EngageAutomation -INFO - DL Sponsor Name field is filled with valid input.
+2021-04-15 23:50:23,638 - EngageAutomation -INFO - DL Sponsor Email field is filled with valid input.
+2021-04-15 23:50:23,750 - EngageAutomation -INFO - Warning for empty Project Name field is displayed.
+2021-04-15 23:50:23,781 - EngageAutomation -INFO - Warning for empty DL Sponsor Name field is displayed.
+2021-04-15 23:50:23,812 - EngageAutomation -INFO - Warning for empty DL Sponsor Email field is displayed.
+2021-04-16 00:11:16,237 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-16 00:13:21,061 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-16 00:13:21,299 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-16 00:13:21,322 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-16 00:13:29,865 - EngageAutomation -INFO - Google login takes place.
+2021-04-16 00:13:29,882 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-16 00:14:08,692 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-16 00:14:08,894 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-16 00:14:08,927 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-16 00:14:08,954 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-16 00:14:08,979 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-16 00:14:09,294 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:14:09,571 - EngageAutomation -INFO - CEM Name field is filled.
+2021-04-16 00:14:09,876 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:14:10,479 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:14:11,064 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:14:11,297 - EngageAutomation -INFO - Successfully redirected to Engage Product Details page.
+2021-04-16 00:14:11,572 - EngageAutomation -INFO - Project Name field is filled with valid input.
+2021-04-16 00:14:11,795 - EngageAutomation -INFO - DL Sponsor Name field is filled with valid input.
+2021-04-16 00:14:12,120 - EngageAutomation -INFO - DL Sponsor Email field is filled with valid input.
+2021-04-16 00:14:12,275 - EngageAutomation -INFO - Successfully redirected to Other Details page.
+2021-04-16 00:14:12,376 - EngageAutomation -INFO - Yes radio button for EHI-PHC exemption is clicked.
+2021-04-16 00:16:34,714 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-16 00:17:26,499 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-16 00:17:26,737 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-16 00:17:26,765 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-16 00:17:36,240 - EngageAutomation -INFO - Google login takes place.
+2021-04-16 00:17:36,254 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-16 00:18:06,170 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-16 00:18:06,383 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-16 00:18:06,416 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-16 00:18:06,447 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-16 00:18:06,472 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-16 00:18:06,783 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:18:07,052 - EngageAutomation -INFO - CEM Name field is filled.
+2021-04-16 00:18:07,356 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:18:07,941 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:18:08,437 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:18:08,768 - EngageAutomation -INFO - Successfully redirected to Engage Product Details page.
+2021-04-16 00:18:09,036 - EngageAutomation -INFO - Project Name field is filled with valid input.
+2021-04-16 00:18:09,272 - EngageAutomation -INFO - DL Sponsor Name field is filled with valid input.
+2021-04-16 00:18:10,333 - EngageAutomation -INFO - DL Sponsor Email field is filled with valid input.
+2021-04-16 00:18:10,513 - EngageAutomation -INFO - Successfully redirected to Other Details page.
+2021-04-16 00:18:10,618 - EngageAutomation -INFO - Yes radio button for EHI-PHC exemption is clicked.
+2021-04-16 00:18:10,696 - EngageAutomation -INFO - Add button is clicked.
+2021-04-16 00:18:10,810 - EngageAutomation -INFO - Warning for empty Exemption Reason field is displayed.
+2021-04-16 00:18:10,841 - EngageAutomation -INFO - Warning for empty Date field is displayed.
+2021-04-16 00:34:21,406 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-16 00:35:06,849 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-16 00:35:07,071 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-16 00:35:07,093 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-16 00:35:13,359 - EngageAutomation -INFO - Google login takes place.
+2021-04-16 00:35:13,373 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-16 00:35:46,080 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-16 00:35:46,621 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:35:46,911 - EngageAutomation -INFO - CEM Name field is filled.
+2021-04-16 00:35:47,225 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:35:47,741 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:35:48,120 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:35:48,331 - EngageAutomation -INFO - Warning for empty DL Email field is displayed.
+2021-04-16 00:35:48,488 - EngageAutomation -INFO - Warning for empty CEM Email field is displayed.
+2021-04-16 00:46:04,176 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-16 00:46:30,454 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-16 00:46:30,684 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-16 00:46:30,708 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-16 00:46:37,706 - EngageAutomation -INFO - Google login takes place.
+2021-04-16 00:46:37,719 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-16 00:47:04,292 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-16 00:47:04,490 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-16 00:47:04,531 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-16 00:47:04,561 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-16 00:47:04,583 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-16 00:47:04,899 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:47:05,169 - EngageAutomation -INFO - CEM Name field is filled.
+2021-04-16 00:47:05,468 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:47:06,049 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:47:06,631 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:47:06,878 - EngageAutomation -INFO - Successfully redirected to Engage Product Details page.
+2021-04-16 00:47:07,928 - EngageAutomation -INFO - Project Name field is filled with valid input.
+2021-04-16 00:47:08,164 - EngageAutomation -INFO - DL Sponsor Name field is filled with valid input.
+2021-04-16 00:47:08,442 - EngageAutomation -INFO - DL Sponsor Email field is filled with valid input.
+2021-04-16 00:47:08,610 - EngageAutomation -INFO - Warning for invalid DL Sponsor Email field is displayed.
+2021-04-16 00:52:39,479 - EngageAutomation -INFO - Objects of required classes are initialized.
+2021-04-16 00:52:56,286 - EngageAutomation -INFO - Engage's URL is hit.
+2021-04-16 00:52:56,512 - EngageAutomation -INFO - Engage login button is clicked.
+2021-04-16 00:52:56,534 - EngageAutomation -INFO - WebDriver switches to the new window.
+2021-04-16 00:53:03,104 - EngageAutomation -INFO - Google login takes place.
+2021-04-16 00:53:03,118 - EngageAutomation -INFO - WebDriver switches back to the parent window.
+2021-04-16 00:53:25,407 - EngageAutomation -INFO - Process of logging in is verified.
+2021-04-16 00:53:25,619 - EngageAutomation -INFO - Add New Product button was clicked.
+2021-04-16 00:53:25,656 - EngageAutomation -INFO - Successfully landed on Add Product Details page.
+2021-04-16 00:53:25,689 - EngageAutomation -INFO - Sales Portfolio field is verified.
+2021-04-16 00:53:25,713 - EngageAutomation -INFO - DL Allocation % field is verified.
+2021-04-16 00:53:26,018 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:53:26,289 - EngageAutomation -INFO - CEM Name field is filled.
+2021-04-16 00:53:26,605 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:53:27,198 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:53:27,684 - EngageAutomation -INFO - DL Name field is filled.
+2021-04-16 00:53:27,899 - EngageAutomation -INFO - Link From Netsuite subtask is completed.
+2021-04-16 00:53:27,927 - EngageAutomation -INFO - Successfully redirected to Engage Product Details page.
+2021-04-16 00:53:28,270 - EngageAutomation -INFO - Project Name field is filled with valid input.
+2021-04-16 00:53:28,510 - EngageAutomation -INFO - DL Sponsor Name field is filled with valid input.
+2021-04-16 00:53:29,351 - EngageAutomation -INFO - DL Sponsor Email field is filled with valid input.
+2021-04-16 00:53:29,675 - EngageAutomation -INFO - Engage product details subtask is completed.
+2021-04-16 00:53:29,703 - EngageAutomation -INFO - Successfully redirected to Other Details page.
+2021-04-16 00:53:29,813 - EngageAutomation -INFO - Yes radio button for EHI-PHC exemption is clicked.
+2021-04-16 00:53:30,136 - EngageAutomation -INFO - Exemption reason was added.
+2021-04-16 00:53:30,241 - EngageAutomation -INFO - Sustained radio button for Engagement Term is clicked.
+2021-04-16 00:53:30,761 - EngageAutomation -INFO - Date is picked from the date picker.
+2021-04-16 00:53:31,097 - EngageAutomation -INFO - Add button is clicked.
+2021-04-16 00:53:31,971 - EngageAutomation -INFO - Success okay button is clicked button is clicked.
+2021-04-16 00:53:31,972 - EngageAutomation -INFO - Other Details subtask is completed.

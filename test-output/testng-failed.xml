@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [stageEngageAutomation]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Add New Product Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.stageEngage.testCases.TC_AddNewProduct_005">
+        <methods>
+          <include name="addNewProduct"/>
+          <include name="start"/>
+          <include name="end"/>
+          <include name="engageLogin"/>
+        </methods>
+      </class> <!-- com.stageEngage.testCases.TC_AddNewProduct_005 -->
+    </classes>
+  </test> <!-- Add New Product Test(failed) -->
+</suite> <!-- Failed suite [stageEngageAutomation] -->
