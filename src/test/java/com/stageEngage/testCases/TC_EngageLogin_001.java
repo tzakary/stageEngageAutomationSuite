@@ -2,7 +2,7 @@ package com.stageEngage.testCases;
 
 import java.util.Set;
 
-import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
 
 import com.stageEngage.pageObjects.engageLoginPage;
 import com.stageEngage.pageObjects.engageProductPage;
@@ -10,7 +10,7 @@ import com.stageEngage.pageObjects.googleLoginPage;
 
 public class TC_EngageLogin_001 extends BaseClass {
 	
-	@BeforeClass
+	@BeforeMethod
 	public void engageLogin() {
 		
 		//Required objects

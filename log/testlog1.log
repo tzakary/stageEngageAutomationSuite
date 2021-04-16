@@ -471,3 +471,64 @@
 2021-04-16 00:53:31,097 [main] INFO EngageAutomation - Add button is clicked.
 2021-04-16 00:53:31,971 [main] INFO EngageAutomation - Success okay button is clicked button is clicked.
 2021-04-16 00:53:31,972 [main] INFO EngageAutomation - Other Details subtask is completed.
+2021-04-16 13:13:57,250 [main] INFO EngageAutomation - Objects of required classes are initialized.
+2021-04-16 13:14:15,458 [main] INFO EngageAutomation - Engage's URL is hit.
+2021-04-16 13:14:15,770 [main] INFO EngageAutomation - Engage login button is clicked.
+2021-04-16 13:14:15,793 [main] INFO EngageAutomation - WebDriver switches to the new window.
+2021-04-16 13:14:22,812 [main] INFO EngageAutomation - Google login takes place.
+2021-04-16 13:14:22,841 [main] INFO EngageAutomation - WebDriver switches back to the parent window.
+2021-04-16 13:14:49,457 [main] INFO EngageAutomation - Process of logging in is verified.
+2021-04-16 13:14:49,831 [main] INFO EngageAutomation - Add New Product button was clicked.
+2021-04-16 13:14:49,869 [main] INFO EngageAutomation - Successfully landed on Add Product Details page.
+2021-04-16 13:14:49,896 [main] INFO EngageAutomation - Sales Portfolio field is verified.
+2021-04-16 13:14:49,924 [main] INFO EngageAutomation - DL Allocation % field is verified.
+2021-04-16 13:14:50,600 [main] INFO EngageAutomation - DL Name field is filled.
+2021-04-16 13:14:51,570 [main] INFO EngageAutomation - CEM Name field is filled.
+2021-04-16 13:14:52,348 [main] INFO EngageAutomation - DL Name field is filled.
+2021-04-16 13:14:53,403 [main] INFO EngageAutomation - DL Name field is filled.
+2021-04-16 13:14:54,610 [main] INFO EngageAutomation - DL Name field is filled.
+2021-04-16 13:14:55,774 [main] INFO EngageAutomation - Link From Netsuite subtask is completed.
+2021-04-16 13:14:55,818 [main] INFO EngageAutomation - Successfully redirected to Engage Product Details page.
+2021-04-16 13:14:56,126 [main] INFO EngageAutomation - Project Name field is filled with valid input.
+2021-04-16 13:14:56,384 [main] INFO EngageAutomation - DL Sponsor Name field is filled with valid input.
+2021-04-16 13:14:56,968 [main] INFO EngageAutomation - DL Sponsor Email field is filled with valid input.
+2021-04-16 13:14:57,385 [main] INFO EngageAutomation - Engage product details subtask is completed.
+2021-04-16 13:14:57,429 [main] INFO EngageAutomation - Successfully redirected to Other Details page.
+2021-04-16 13:14:57,698 [main] INFO EngageAutomation - Yes radio button for EHI-PHC exemption is clicked.
+2021-04-16 13:14:58,238 [main] INFO EngageAutomation - Exemption reason was added.
+2021-04-16 13:14:58,476 [main] INFO EngageAutomation - Sustained radio button for Engagement Term is clicked.
+2021-04-16 13:14:59,312 [main] INFO EngageAutomation - Date is picked from the date picker.
+2021-04-16 13:14:59,718 [main] INFO EngageAutomation - Add button is clicked.
+2021-04-16 13:15:02,908 [main] INFO EngageAutomation - Success okay button is clicked button is clicked.
+2021-04-16 13:15:02,909 [main] INFO EngageAutomation - Other Details subtask is completed.
+2021-04-16 16:11:53,839 [main] INFO EngageAutomation - Objects of required classes are initialized.
+2021-04-16 16:12:26,382 [main] INFO EngageAutomation - Objects of required classes are initialized.
+2021-04-16 16:12:49,284 [main] INFO EngageAutomation - Engage's URL is hit.
+2021-04-16 16:12:49,652 [main] INFO EngageAutomation - Engage login button is clicked.
+2021-04-16 16:12:49,673 [main] INFO EngageAutomation - WebDriver switches to the new window.
+2021-04-16 16:12:56,544 [main] INFO EngageAutomation - Google login takes place.
+2021-04-16 16:12:56,562 [main] INFO EngageAutomation - WebDriver switches back to the parent window.
+2021-04-16 16:13:29,875 [main] INFO EngageAutomation - Process of logging in is verified.
+2021-04-16 16:13:30,108 [main] INFO EngageAutomation - Add New Product button was clicked.
+2021-04-16 16:13:30,149 [main] INFO EngageAutomation - Successfully landed on Add Product Details page.
+2021-04-16 16:13:30,180 [main] INFO EngageAutomation - Sales Portfolio field is verified.
+2021-04-16 16:13:30,208 [main] INFO EngageAutomation - DL Allocation % field is verified.
+2021-04-16 16:13:30,577 [main] INFO EngageAutomation - DL Name field is filled.
+2021-04-16 16:13:31,004 [main] INFO EngageAutomation - CEM Name field is filled.
+2021-04-16 16:13:32,462 [main] INFO EngageAutomation - DL Name field is filled.
+2021-04-16 16:13:33,051 [main] INFO EngageAutomation - DL Name field is filled.
+2021-04-16 16:13:33,647 [main] INFO EngageAutomation - DL Name field is filled.
+2021-04-16 16:13:33,794 [main] INFO EngageAutomation - Link From Netsuite subtask is completed.
+2021-04-16 16:13:33,825 [main] INFO EngageAutomation - Successfully redirected to Engage Product Details page.
+2021-04-16 16:13:34,131 [main] INFO EngageAutomation - Project Name field is filled with valid input.
+2021-04-16 16:13:34,360 [main] INFO EngageAutomation - DL Sponsor Name field is filled with valid input.
+2021-04-16 16:13:34,724 [main] INFO EngageAutomation - DL Sponsor Email field is filled with valid input.
+2021-04-16 16:13:34,875 [main] INFO EngageAutomation - Engage product details subtask is completed.
+2021-04-16 16:13:34,902 [main] INFO EngageAutomation - Successfully redirected to Other Details page.
+2021-04-16 16:13:35,007 [main] INFO EngageAutomation - Yes radio button for EHI-PHC exemption is clicked.
+2021-04-16 16:13:35,343 [main] INFO EngageAutomation - Exemption reason was added.
+2021-04-16 16:13:35,444 [main] INFO EngageAutomation - Sustained radio button for Engagement Term is clicked.
+2021-04-16 16:13:35,857 [main] INFO EngageAutomation - Date is picked from the date picker.
+2021-04-16 16:13:36,395 [main] INFO EngageAutomation - Add button is clicked.
+2021-04-16 16:13:37,633 [main] INFO EngageAutomation - Success okay button is clicked button is clicked.
+2021-04-16 16:13:37,634 [main] INFO EngageAutomation - Other Details subtask is completed.

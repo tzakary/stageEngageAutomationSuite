@@ -14,7 +14,7 @@ public class TC_AddProduct_EmptyFields_006 extends TC_EngageLogin_001{
 	
 	SoftAssert softAssert = new SoftAssert();
 
-
+	//@Test
 	public void LinkFromNetsuiteEmptyFields() {
 		
 		//Required objects
@@ -71,7 +71,7 @@ public class TC_AddProduct_EmptyFields_006 extends TC_EngageLogin_001{
 		softAssert.assertAll();
 	}
 	
-	
+	//@Test
 	public void EngageProductDetailsEmptyFields() {
 		//Required objects
 		TC_LinkFromNetsuite_002 TC_LinkFromNetsuite_002_Object = new TC_LinkFromNetsuite_002();

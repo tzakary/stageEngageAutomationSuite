@@ -26,4 +26,5 @@ public class TC_AddNewProduct_005 extends TC_EngageLogin_001 {
 		if(productDetailsPageObject.headingProductDetailsIsDisplayed())
 			logger.info("Product added successfully");
 	}
+	
 }
